@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pursuing PG-DAC in CDAC Pune<br>E&TC Engineer <br>Java <br>React<br>Spring Boot <br>SQL <br>
+<br>E&TC Engineer <br>Java <br>React<br>Spring Boot <br>SQL <br>
 
 
 ## 🌐 Socials:
